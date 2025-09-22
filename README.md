@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I’m Dinesh R 👋<br><br>🎓 Fresher with a BCA (85%) from AM Jain College, Chennai<br><br>💻 Passionate about Java Full Stack Development<br><br>🛠 Skilled in Java, SQL, HTML, CSS, JavaScript, React.js<br><br>🌱 Currently learning Data Structures & Algorithms (DSA) to improve problem-solving skills<br><br>🚀 Interested in Backend Development, Web Applications, and Scalable Systems<br><br>🤝 Open to Java Full Stack Developer / Backend Developer roles<br><br>🌐 Check out my portfolio: https://dineshportfolio9080.netlify.app/
 
 
